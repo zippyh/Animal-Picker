@@ -14,7 +14,5 @@ public class AnimalASCIIArt {
             System.out.println("dog ASCII art");
             scan.close();
         }
-
-
     }
 }
